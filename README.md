@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @roberkapp
-- 👀 I’m interested in ... web devolpment
-- 🌱 I’m currently learning ... react
-- 💞️ I’m looking to collaborate on ... frontend projects!
+- 👀 I’m interested in ... web devolpment,
+- 🌱 I’m currently learning ... react and node.js
+- 💞️ I’m looking to collaborate on ... backend in any projects!
 - 📫 How to reach me ... roberkapp@gmail.com
 
 <!---
